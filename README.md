@@ -30,6 +30,7 @@ eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJVc2VyIGRldGFpbHMiLCJ1c2VybmFtZSI
 Дополнительно для тестирования есть staging (vps-сервис) по адресу: ovz1.j71456524.wmekm.vps.myjino.ru:49228
 
 Пример запроса: ovz1.j71456524.wmekm.vps.myjino.ru:49228/user/getAllUsers
+
 Header: Authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJVc2VyIGRldGFpbHMiLCJ1c2VybmFtZSI6IkFkbWluIiwicGFzc3dvcmQiOiJBZG1pbiIsImlkIjoxNCwiUk9MRSI6IkFETUlOIiwiaWF0IjoxNzU0Mzg3ODA3LCJpc3MiOiJUT0RPIiwiZXhwIjoxNzYwMzg3ODA3fQ.GmRqht3E2kfooHYG7dOwi5vMkEmvzGqJygLjMiQPQsc
 
 
