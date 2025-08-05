@@ -15,4 +15,5 @@ public class CardDto {
     private BigDecimal balance;
     private Card.CardStatus status;
     private Date expireDate;
+    //private Long owner;
 }
